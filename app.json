@@ -6,7 +6,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "来活动",
+    "navigationBarTitleText": "来吧活动",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"
