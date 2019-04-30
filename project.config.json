@@ -14,7 +14,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.6.6",
 	"appid": "wxbddecf60ab996250",
-	"projectname": "laihuod",
+	"projectname": "wx-laihuod",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

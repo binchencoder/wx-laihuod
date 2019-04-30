@@ -9,5 +9,20 @@
     "navigationBarTitleText": "来吧活动",
     "navigationBarTextStyle": "black"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#d9ead3",
+    "selectedColor": "#a4c2f4",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "组件"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "接口"
+      }
+    ]
+  }
 }
